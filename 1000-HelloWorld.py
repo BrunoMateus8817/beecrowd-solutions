@@ -1,3 +1,2 @@
-# Imprimir "Hello World!" na tela.
-
-print("Hello World!")
+# Este é um programa Python simples que imprime "Hello World!" no console.
+print("Hello World!") 
