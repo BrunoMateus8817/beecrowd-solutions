@@ -4,7 +4,7 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/BrunoMateus8817/beecrowd-solutions)](https://github.com/BrunoMateus8817/beecrowd-solutions)
 [![GitHub last commit](https://img.shields.io/github/last-commit/BrunoMateus8817/beecrowd-solutions)](https://github.com/BrunoMateus8817/beecrowd-solutions)
 [![GitHub license](https://img.shields.io/github/license/BrunoMateus8817/beecrowd-solutions)](https://github.com/BrunoMateus8817/beecrowd-solutions/blob/main/LICENSE)
-
+![Banner do Repositório](banner-beecrowd-solutions.png)
 ## ✍️ Descrição
 
 Este repositório contém **soluções de problemas do Beecrowd em Python**, focadas em prática de algoritmos, lógica de programação e fundamentos essenciais para concursos e evolução em programação competitiva.
